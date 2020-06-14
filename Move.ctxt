@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Move
+comment1.params=a\ b\ c\ d\ e
+comment1.target=void\ main(int,\ int,\ int,\ int,\ int)
+comment2.params=a\ l\ c\ d\ e
+comment2.target=void\ yup(int,\ int,\ int,\ int,\ int)
+numComments=3
